@@ -1,4 +1,4 @@
-# Fifteen puzzle (2017)
+# Fifteen Puzzle Solver (2017)
 Java application solving fifteen puzzle.
 
 -------------------
